@@ -1,5 +1,5 @@
 # ExerciseModel
-Fowler et al Exercise Signaling Model (J Physiol 2023).
+Fowler et al Exercise Signaling Model (Exp Physiol 2024).
 This repository contains the following data and code supplements described in the paper:
 Supplement Code S1. Jupyter notebook with Python code and parameters. 
 Supplement Table S2. Model nodes, reactions, parameters, and literature sources. 
