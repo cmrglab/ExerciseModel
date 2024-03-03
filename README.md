@@ -1,5 +1,5 @@
 # Exercise Signaling Model
-Fowler et al skeletal muscle exercise signaling network model (submitted to Exp Physiol 2023).
+Fowler et al skeletal muscle exercise signaling network model (Exp Physiol 2024).
 
 This repository contains the following data and code supplements described in the paper:
 
