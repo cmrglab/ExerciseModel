@@ -3,10 +3,12 @@ Fowler et al skeletal muscle exercise signaling network model (submitted to Exp 
 
 This repository contains the following data and code supplements described in the paper:
 
-Supplement Table S1. Summary of species, muscle, exercise conditions and measurements for each of the 87 papers used to formulate the model and 9 papers used for validation.
+Supplement Figure S1. PRISMA diagram summarizing paper selection criteria.
 
-Supplement Code S2. Jupyter notebook with Python code and parameters.
+Supplement Table S2. Summary of species, muscle, exercise conditions and measurements for each of the 87 papers used to formulate the model and 9 papers used for validation.
 
-Supplement Table S3. Model nodes, reactions, parameters and literature sources. 
+Supplement Code S3. Jupyter notebook with Python code and parameters.
 
-Supplement Tables S4 A-C. Raw data from sensitivity heatmaps in Figures 4A-C. 
+Supplement Table S4. Model nodes, reactions, parameters and literature sources. 
+
+Supplement Tables S5 A-C. Raw data from sensitivity heatmaps in Figures 4A-C. 
